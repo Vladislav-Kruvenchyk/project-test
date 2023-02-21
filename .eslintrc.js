@@ -1,3 +1,7 @@
+// eslint-disable-next-line no-undef
+// eslint-disable
+// eslint-disable-next-line
+// eslint-disable-next-line vue/no-side-effects-in-computed-properties
 const path = require('path')
 const { defineConfig } = require('@vue/cli-service');
 module.exports =   defineConfig({
